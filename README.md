@@ -7,5 +7,5 @@
 
 <div align=center><img width="150" height="150" src="https://github.com/YobeZhou/Stepper-28BYJ48/blob/master/images/IMG_3449(20190407-175334).jpg"/></div>
 
-<div align=center><img width="150" height="150" src="https://github.com/YobeZhou/Stepper-28BYJ48/blob/master/images/IMG_3450.jpg"/></div>
+<div align=center><img width="150" height="150" src="https://github.com/YobeZhou/Stepper-28BYJ48/blob/master/images/IMG_3450.JPG"/></div>
 
