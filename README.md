@@ -3,8 +3,9 @@
 
 接线图请参考代码注释，使用的硬件模块如下：
 
-![](https://github.com/YobeZhou/Stepper-28BYJ48/blob/master/images/IMG_3448(20190407-175351).jpg)
+<div align=center><img width="150" height="150" src="https://github.com/YobeZhou/Stepper-28BYJ48/blob/master/images/IMG_3448(20190407-175351).jpg"/></div>
 
-![](https://github.com/YobeZhou/Stepper-28BYJ48/blob/master/images/IMG_3449(20190407-175334).jpg)
+<div align=center><img width="150" height="150" src="https://github.com/YobeZhou/Stepper-28BYJ48/blob/master/images/IMG_3449(20190407-175334).jpg"/></div>
 
-![](https://github.com/YobeZhou/Stepper-28BYJ48/blob/master/images/IMG_3450.JPG)
+<div align=center><img width="150" height="150" src="https://github.com/YobeZhou/Stepper-28BYJ48/blob/master/images/IMG_3450.jpg"/></div>
+
