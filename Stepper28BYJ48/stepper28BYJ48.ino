@@ -13,7 +13,7 @@
 
 // start reading from the first byte (address 0) of the EEPROM
 int address = 0;
-int readValueL = 0;
+int readValueL = 0; 
 int readValueH = 0;
 int value = 0;
 int dir = 0;
@@ -28,7 +28,7 @@ void setup() {
   readValueL = EEPROM.read(address++);
   readValueH = EEPROM.read(address);
 
-  value = (readValueH << 8) + readValueL;  // http://www.51hei.com/arduino/3829.html
+  value = (readValueH << 8) + readValueL;
   Serial.println(value);
   Serial.println(dir);
 
@@ -47,11 +47,8 @@ void loop() {
   /* put your main code here, to run repeatedly */
   int a = 0;
   char steper = 64;
-  //  for (a = 0; a < steper; a++)
-  //  {
-  //  myStepper.step(-2048);
-  //  delay(1000);
   myStepper.step(2048);
   delay(1000);
-  //  }
+  myStepper.step(-2048);
+  delay(1000);
 }
