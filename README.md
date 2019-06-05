@@ -14,7 +14,7 @@ uchar code CW[8]={0x09,0x01,0x03,0x02,0x06,0x04,0x0c,0x08};    //正时钟旋转
 &emsp;&emsp;接线图请参考代码注释，使用的硬件模块如下：
 &emsp;&emsp;五线四相八拍步进电机（28BYJ8）：
 <div align=center><img width="450" height="450" src="https://github.com/YobeZhou/Stepper-28BYJ48/blob/master/images/五线四相八拍步进电机（28BYJ8）.jpg"/></div>
-<center>图3-1 五线四相八拍步进电机（28BYJ8）</center>
+<div align=center>图3-1 五线四相八拍步进电机（28BYJ8）</div>
 
 &emsp;&emsp;ULN2003驱动模块：
 <div align=center><img width="450" height="450" src="https://github.com/YobeZhou/Stepper-28BYJ48/blob/master/images/ULN2003驱动模块.jpg"/></div>
